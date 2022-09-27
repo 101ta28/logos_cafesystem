@@ -1,0 +1,42 @@
+[
+    {
+        "model": "invoice.detail",
+        "pk": 1,
+        "fields": {
+            "name": "ゲイシャ",
+            "order": 1
+        }
+    },
+    {
+        "model": "invoice.detail",
+        "pk": 2,
+        "fields": {
+            "name": "イエンガ",
+            "order": 2
+        }
+    },
+    {
+        "model": "invoice.detail",
+        "pk": 3,
+        "fields": {
+            "name": "スノートップ",
+            "order": 3
+        }
+    },
+    {
+        "model": "invoice.detail",
+        "pk": 4,
+        "fields": {
+            "name": "グアテマラ",
+            "order": 4
+        }
+    },
+    {
+        "model": "invoice.detail",
+        "pk": 5,
+        "fields": {
+            "name": "詳細不要",
+            "order": 5
+        }
+    }
+]

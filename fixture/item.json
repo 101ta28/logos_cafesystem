@@ -1,0 +1,56 @@
+[
+    {
+        "model": "invoice.item",
+        "pk": 1,
+        "fields": {
+            "name": "コーヒー(ペーパードリップ)",
+            "unit_price": 300,
+            "order": 1
+        }
+    },
+    {
+        "model": "invoice.item",
+        "pk": 2,
+        "fields": {
+            "name": "コーヒー(サイフォン)",
+            "unit_price": 300,
+            "order": 2
+        }
+    },
+    {
+        "model": "invoice.item",
+        "pk": 3,
+        "fields": {
+            "name": "コーヒー(ネルドリップ)",
+            "unit_price": 300,
+            "order": 3
+        }
+    },
+    {
+        "model": "invoice.item",
+        "pk": 4,
+        "fields": {
+            "name": "飲み比べセット",
+            "unit_price": 700,
+            "order": 4
+        }
+    },
+    {
+        "model": "invoice.item",
+        "pk": 5,
+        "fields": {
+            "name": "アイスレモネード",
+            "unit_price": 300,
+            "order": 5
+        }
+    },
+    {
+        "model": "invoice.item",
+        "pk": 6,
+        "fields": {
+            "name": "アイスレモンスカッシュ",
+            "unit_price": 400,
+            "order": 6
+        }
+    }
+]
