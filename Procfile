@@ -1,1 +1,1 @@
-web: gunicorn logos_cafesystem.wsgi
+web: gunicorn project.wsgi
