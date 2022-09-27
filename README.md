@@ -8,9 +8,9 @@ source ./.venv/bin/activate
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py createsuperuser
-python manage.py runserver
 python manage.py loaddata fixture/item.json
 python manage.py loaddata fixture/detail.json
+python manage.py runserver
 ```
 
 作成にあたっては以下のリポジトリを参考にしました。
